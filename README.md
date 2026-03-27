@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Website portofolio pribadi yang dibuat sebagai submission Dicoding menggunakan HTML, CSS, dan JavaScript.
 
 ## Cara Menjalankan
@@ -17,9 +16,9 @@
 4. Layout menggunakan Flexbox, bukan float |
 5. Tema bebas |
 
-### Detail Penerapan Kriteria
+### Detail Penerapan
 
-**Kriteria 1 — Elemen HTML Semantik**
+**1 - Elemen HTML Semantik**
 
 Semua elemen wajib ada di `index.html`:
 - `<header>` - Navbar fixed di bagian atas halaman
@@ -29,7 +28,7 @@ Semua elemen wajib ada di `index.html`:
 - `<aside>` - Foto profil di section Hero + Skill bars di section About
 - `<footer>` - Bagian bawah halaman berisi copyright
 
-**Kriteria 2 — Link Dicoding di Nav**
+**2 - Link Dicoding di Nav**
 
 ```html
 <a href="https://www.dicoding.com/users/caturdianta"
@@ -38,7 +37,7 @@ Semua elemen wajib ada di `index.html`:
    class="dicoding-link">Dicoding ↗</a>
 ```
 
-**Kriteria 3 — Foto di `<aside>`**
+**3 - Foto di `<aside>`**
 
 ```html
 <aside class="hero-photo">
@@ -50,7 +49,7 @@ Semua elemen wajib ada di `index.html`:
 <aside class="skills-aside"> ... </aside>
 ```
 
-**Kriteria 4 — Flexbox Layout**
+**4 - Flexbox Layout**
 
 Seluruh layout menggunakan `display: flex`. Tidak ada `float` sama sekali.
 
@@ -65,10 +64,10 @@ nav          { display: flex; justify-content: space-between; }
 
 ## Tools yang Digunakan
 
-- **HTML5** — Struktur semantik
-- **CSS3** — Flexbox, CSS Variables, Animations, Filter
-- **JavaScript (ES5+)** — IntersectionObserver, DOM manipulation
-- **Google Fonts** — Syne (body) + Space Mono (monospace/code)
+- **HTML5** - Struktur semantik
+- **CSS3** - Flexbox, CSS Variables, Animations, Filter
+- **JavaScript (ES5+)** - IntersectionObserver, DOM manipulation
+- **Google Fonts** - Syne (body) + Space Mono (monospace/code)
 
 ---
 
@@ -81,7 +80,4 @@ nav          { display: flex; justify-content: space-between; }
 
 ---
 
-*© 2025 Ketut Diatmika Caturdianta. All Rights Reserved.*
-=======
-# Web-Portofolio
->>>>>>> f77dd89a82e7dd304b07bec7b10a105af9ba112d
+*© | 2025 Ketut Diatmika Caturdianta.*
