@@ -77,7 +77,9 @@ nav          { display: flex; justify-content: space-between; }
 **Universitas:** Universitas Udayana
 **Program Studi:** Teknologi Informasi  
 **Profil Dicoding:** [dicoding.com/users/caturdianta](https://www.dicoding.com/users/caturdianta)
+**Live Site:** https://caturd.github.io/Portfolio/
 
 ---
+
 
 *© | 2025 Ketut Diatmika Caturdianta.*
