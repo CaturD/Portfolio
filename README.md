@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Website portofolio pribadi yang dibuat sebagai submission Dicoding menggunakan HTML, CSS, dan JavaScript.
 
 ## Cara Menjalankan
@@ -81,3 +82,6 @@ nav          { display: flex; justify-content: space-between; }
 ---
 
 *© 2025 Ketut Diatmika Caturdianta. All Rights Reserved.*
+=======
+# Web-Portofolio
+>>>>>>> f77dd89a82e7dd304b07bec7b10a105af9ba112d
