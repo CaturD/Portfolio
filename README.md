@@ -66,7 +66,7 @@ nav          { display: flex; justify-content: space-between; }
 
 - **HTML5** - Struktur semantik
 - **CSS3** - Flexbox, CSS Variables, Animations, Filter
-- **JavaScript (ES5+)** - IntersectionObserver, DOM manipulation
+- **JavaScript** - IntersectionObserver, DOM manipulation
 - **Google Fonts** - Syne (body) + Space Mono (monospace/code)
 
 ---
